@@ -23,6 +23,17 @@ body {
 
 }
 
+#profile-info > #profile-link-group {
+    justify-self: center;
+    align-self: flex-start;
+    grid-column: 1 / span 3;
+    grid-row: 2  / span 1;
+}
+
+#profile-info > #profile-link-group > #section-title {
+    text-align: center;
+}
+
 #profile-info > .div-row > a {
     margin: 8px;
 }
