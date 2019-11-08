@@ -34,7 +34,7 @@ body {
     text-align: center;
 }
 
-#profile-info > .div-row > a {
+#profile-info > #profile-link-group > .div-row > a {
     margin: 8px;
 }
 
